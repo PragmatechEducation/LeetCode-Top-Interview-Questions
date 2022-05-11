@@ -6,7 +6,7 @@ You can join us to solve [**Top Interview Questions**](https://leetcode.com/prob
 - Fork this repo
 - Solve the question you want
 - Send pull request with solution 
-- The file name like this 
+- The file name must be like this 
   ```
   <QuestionName-ProgrammingLanguage>
 
